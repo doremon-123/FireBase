@@ -21,7 +21,7 @@ import com.google.firebase.firestore.QuerySnapshot;
 
 import java.util.HashMap;
 import java.util.Map;
-
+//from the github
 public class MainActivity extends AppCompatActivity {
   EditText ed1,ed2;
   Button btn,btn2;
